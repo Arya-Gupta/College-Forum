@@ -7,3 +7,8 @@
 ## Overview of the App
 
 College forum lets juniors talk with their seniors, students to talk with their teachers and allows faculties to have private discussions. The main aim behind creating this app is to increase student-senior-teacher bonding during the global pandemic.
+
+## Structure Of The Project
+
+- The home page consists of an image slider showing images/important notices related to the forum along with cards for the teacher-student discussion, the student-senior discussion and the faculty discussion. New discussion threads can be created dynamically.
+- The navbar contains important links as well as a search bar
