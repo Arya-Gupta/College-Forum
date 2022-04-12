@@ -14,3 +14,7 @@ College forum lets juniors talk with their seniors, students to talk with their 
 - The navbar contains important links as well as a search bar
 - Login and register popup modals for user to register - it is necessary to be logged in to create or comment on posts
 - Logout button is displayed if the user is already logged in
+
+## Tech Stack Used
+
+<img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
