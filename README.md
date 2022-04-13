@@ -10,10 +10,12 @@ College forum lets juniors talk with their seniors, students to talk with their 
 
 ## Structure Of The Project
 
-- The home page consists of an image slider showing images/important notices related to the forum along with cards for the teacher-student discussion, the student-senior discussion and the faculty discussion. New discussion threads can be created dynamically.
+- The home page consists of an image slider showing images/important notices related to the forum along with cards for the teacher-student discussion, the student-senior discussion and the faculty discussion. New discussion threads can be created dynamically
 - The navbar contains important links as well as a search bar
 - Login and register popup modals for user to register - it is necessary to be logged in to create or comment on posts
 - Logout button is displayed if the user is already logged in
+- Each section contains a jumbotron which takes the user to a form to post questions
+- All asked/answered questions are displayed and can be clicked on for more information
 
 ## Tech Stack Used
 
