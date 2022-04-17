@@ -19,6 +19,7 @@ College forum lets juniors talk with their seniors, students to talk with their 
 - All asked/answered questions are displayed and can be clicked on for more information
 - A user needs to be logged in to post a question or comment on a thread 
 - Users can post or comment only if they have permission 
+- Use the search feature on the navbar to quickly search if you think your question has been already asked
 
 ## Tech Stack Used
 
