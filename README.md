@@ -46,7 +46,7 @@ Step 4 - Great! Now you are ready to run the project. Go to 'http://localhost/co
 - A section for teachers to upload relevant .pdf, .docx and .ppt files for students
 - A section with contact information of all professors and previous alumni 
 
-Want to contribute? Great!
+## How to contribute
 
 To fix a bug or enhance an existing module, follow these steps:
 
