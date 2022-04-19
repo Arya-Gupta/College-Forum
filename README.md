@@ -6,7 +6,13 @@
 
 ## Overview of the App
 
-College forum lets juniors talk with their seniors, students to talk with their teachers and allows faculties to have private discussions. The main aim behind creating this app is to increase student-senior-teacher bonding during the global pandemic.
+<table>
+<tr>
+<td>
+  * College forum lets juniors talk with their seniors, students to talk with their teachers and allows faculties to have private discussions. The main aim behind creating this app is to increase student-senior-teacher bonding during the global pandemic.
+</td>
+</tr>
+</table>
 
 ## Structure Of The Project
 
@@ -24,3 +30,30 @@ College forum lets juniors talk with their seniors, students to talk with their 
 ## Tech Stack Used
 
 <img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+
+## How do I run this project?
+
+Step 1 - Download XAMPP.
+
+Step 2 - Start XAMPP. Start Apache to start your Apache Web Server and start MySQL because the project uses MySQL database to run.
+
+Step 3 - Place the project in the 'htdocs' folder located under 'XAMPP' folder which is usually located in the C drive
+
+Step 4 - Great! Now you are ready to run the project. Go to 'http://localhost/college-forum/index.php' to open up the home page.
+
+## Future prospects for College Forum
+
+- A section for teachers to upload relevant .pdf, .docx and .ppt files for students
+- A section with contact information of all professors and previous alumni 
+
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
