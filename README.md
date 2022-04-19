@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td>
-  * College forum lets juniors talk with their seniors, students to talk with their teachers and allows faculties to have private discussions. The main aim behind creating this app is to increase student-senior-teacher bonding during the global pandemic.
+   College forum lets juniors talk with their seniors, students to talk with their teachers and allows faculties to have private discussions. The main aim behind creating this app is to increase student-senior-teacher bonding during the global pandemic.
 </td>
 </tr>
 </table>
